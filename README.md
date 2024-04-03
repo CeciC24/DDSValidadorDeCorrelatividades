@@ -6,3 +6,6 @@
 > **Materia:** Diseño de Sistemas
 >
 > **Curso:** K3052
+
+## Diagrama de clases
+![Diagrama de clases del validador](diagramaDeClases.jpg)
